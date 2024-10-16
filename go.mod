@@ -7,7 +7,7 @@ replace github.com/gravwell/gravwell/v3 => github.com/gabe565/gravwell/v3 v3.0.0
 require (
 	github.com/dmarkham/enumer v1.5.10
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
-	github.com/gravwell/gravwell/v3 v3.8.40
+	github.com/gravwell/gravwell/v3 v3.8.43
 	github.com/lestrrat-go/strftime v1.1.0
 	github.com/mattn/go-isatty v0.0.20
 	github.com/mattn/go-tty v0.0.7
